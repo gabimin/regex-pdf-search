@@ -1,6 +1,8 @@
 
 # Regex Search Repository
 
+![GitHub Created At](https://img.shields.io/github/created-at/gabimin/regex-pdf-search?style=flat-square&logoSize=auto&labelColor=black&color=teal)
+
 This repository contains scripts to search for specific patterns in text files using regular expressions. The patterns include email addresses, phone numbers, and dates.
 
 ## Files
